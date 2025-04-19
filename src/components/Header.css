@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+    padding: 15px;
+    padding-top: 15px;
+    background-color: #c21a29;
+    color: #bffde3;
+  }
+  h1{
+    font-size: 2em;
+    color: #66141ae1;
+    background-color: #c21a29;
+  }
+  p{
+    font-size: 1.1em;
+    color: #66141ae1;
+    background-color: #c21a29;
+  }
